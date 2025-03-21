@@ -19,7 +19,6 @@ Insights Discovered:
 📂 Files Included:
 📊 Excel Dashboard (.xlsm) – Interactive analysis with Pivot Tables and VBA elements
 📸 Screenshots – Preview of the final dashboard
-📄 Raw Dataset – Original sales data before transformation
 🔄 Future Updates
 I will continue adding new dashboards covering different business domains, such as financial analysis, customer segmentation, and market trend analysis. Stay tuned! 🚀
 
